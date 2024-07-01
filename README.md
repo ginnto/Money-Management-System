@@ -1,5 +1,7 @@
 Money Management System
 
+[Money Management System.docx](https://github.com/user-attachments/files/16049008/Money.Management.System.docx)
+
 The Money Management System is a collaborative project designed to help users manage their finances effectively. Built using the Django framework, this system allows users to:
 
     Add and manage multiple money sources
