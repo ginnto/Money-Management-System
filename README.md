@@ -1,4 +1,4 @@
-Money Management System
+Money Management System.
 
 [Money Management System.docx](https://github.com/user-attachments/files/16049008/Money.Management.System.docx)
 
