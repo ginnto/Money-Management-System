@@ -1,0 +1,22 @@
+<h1>Your Income Sources</h1>
+<table>
+    <tr>
+        <th>Source Name</th>
+        <th>Amount</th>
+        <th>Date</th>
+        <th>Type</th>
+        <th>Actions</th>
+    </tr>
+    {% for income in incomes %}
+    <tr>
+        <td>{{ income.source_name }}</td>
+        <td>{{ income.amount }}</td>
+        <td>{{ income.income_date }}</td>
+        <td>{{ income.income_type }}</td>
+        <td>
+            <a href="{% url 'delete_income' income.id %}">Delete</a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+<a href="{% url 'add_income' %}">Add New Income</a>
