@@ -57,6 +57,4 @@ Contributing
 We welcome contributions from the community! If you have any ideas, suggestions, or improvements, feel free to submit a pull request or open an issue.
 License
 
-Distributed under the MIT License. See LICENSE for more information.
 
-y
